@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			h1{
+				text-align:center;
+				font-size:100px;
+			}
+		</style>
+	</head>
+		<body background="https://pics.me.me/am-froont-or-am-vegetal-27342254.png">
+		<a href = "frenzyAnswer.html">Answer</a>
+		<h1>Write as Radians</h1>
+		<h1 style="color: yellow">230</h1>
+		</body>
+</html>
