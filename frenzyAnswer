@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			h1{
+				text-align:center;
+				font-size:100px;
+			}
+		</style>
+	</head>
+		<body background="https://cdn.discordapp.com/attachments/449616606167957504/455583785883533322/image.jpg">
+
+		<a href = "index.html">Home</a>
+		
+		<h1 style="color: lime">23π/18</h1>
+		
+		</body>
+		
+</html>
